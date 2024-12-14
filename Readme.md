@@ -92,9 +92,20 @@ To set up SARTHI Health Monitor, follow these steps:
 ![Home Page](https://github.com/kuldeepaher01/Saarthi-Health-Monitoring/blob/main/docs/Group%2013.png)
 
 ## Hardware
+![PCB](https://github.com/kuldeepaher01/Saarthi-Health-Monitoring/blob/main/docs/pcb.png)
 ![Hardware](https://github.com/kuldeepaher01/Saarthi-Health-Monitoring/blob/main/docs/exploded_front.jpg)
 
 ![IRL](https://github.com/kuldeepaher01/Saarthi-Health-Monitoring/blob/main/docs/irl_opened.jpg)
+
+## CAD
+
+![CAD](https://github.com/kuldeepaher01/Saarthi-Health-Monitoring/blob/main/docs/cad.png)
+
+## Signal Processing
+
+![Processed Signal Combined](https://github.com/kuldeepaher01/Saarthi-Health-Monitoring/blob/main/docs/output.png)
+
+![Signal Summary](https://github.com/kuldeepaher01/Saarthi-Health-Monitoring/blob/main/docs/wet_electrode_signal_combined.png)
 
 
 ## Technologies Used
