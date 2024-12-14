@@ -41,7 +41,7 @@ To set up SARTHI Health Monitor, follow these steps:
 
 1.  Clone the repository:
     
-    git clone https://github.com/kuldeepaher01/sarthi-health-monitor.git
+    git clone https://github.com/kuldeepaher01/Saarthi-Health-Monitoring.git
     
     cd sarthi-health-monitor/backend
     
