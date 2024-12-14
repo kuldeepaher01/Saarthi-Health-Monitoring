@@ -3,7 +3,7 @@
 
 ## Introduction
 
-**SARTHI Health Monitor** is an innovative web application designed to help users monitor their health in real-time. It integrates hardware and software to provide a seamless health-monitoring experience.
+**SARTHI Health Monitor** is an innovative Hardware designed to help users monitor their health in real-time. It integrates hardware and software to provide a seamless health-monitoring experience.
 
 The hardware component consists of an ESP32 microcontroller equipped with sensors like:
 
