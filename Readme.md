@@ -89,13 +89,13 @@ To set up SARTHI Health Monitor, follow these steps:
 
 ## Web Application Screenshots
 
-![Home Page]()
-![Dashboard]()
-### Dashboard
+![Home Page](https://github.com/kuldeepaher01/Saarthi-Health-Monitoring/blob/main/docs/Group%2013.png)
 
-  
+## Hardware
+![Hardware](https://github.com/kuldeepaher01/Saarthi-Health-Monitoring/blob/main/docs/exploded_front.jpg)
 
-----------
+![IRL](https://github.com/kuldeepaher01/Saarthi-Health-Monitoring/blob/main/docs/irl_opened.jpg)
+
 
 ## Technologies Used
 
